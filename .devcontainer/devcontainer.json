@@ -1,0 +1,19 @@
+{
+  "hostRequirements": {
+    "cpus": 4
+  },
+  "waitFor": "onCreateCommand",
+  "updateContentCommand": "",
+  "postCreateCommand": "",
+  "customizations": {
+    "codespaces": {
+      "openFiles": []
+    },
+    "vscode": {
+      "extensions": [
+        "GordonSmith.observable-js",
+        "GordonSmith.js-notebook-extension-pack"
+      ]
+    }
+  }
+}

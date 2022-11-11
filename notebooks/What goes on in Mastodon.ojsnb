@@ -1,0 +1,714 @@
+{
+    "id": "248bbfa86d177e97",
+    "slug": "what-goes-on-in-mastodon",
+    "trashed": false,
+    "description": "",
+    "likes": 1,
+    "publish_level": "live",
+    "forks": 1,
+    "fork_of": {
+        "id": "7ca9a18aeb84787c",
+        "slug": "mastodon-activity",
+        "title": "Mastodon activity 🐘",
+        "owner": {
+            "id": "018969b4abf63b07",
+            "github_login": "mauforonda",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/4cc3af3b792916571df54649e193dbdbf80a875b4e37b1def6ecb0480c561075",
+            "login": "mauforonda",
+            "name": "Mau Foronda",
+            "bio": "",
+            "home_url": "https://mauforonda.github.io/intro/",
+            "type": "individual",
+            "tier": "public"
+        },
+        "version": 577
+    },
+    "has_importers": false,
+    "update_time": "2022-11-15T18:25:17.151Z",
+    "publish_time": null,
+    "publish_version": 1625,
+    "latest_version": 1625,
+    "thumbnail": "91ff66f9ab2426ab72db2f17127c0d74ec5a479e71ff3f9db90e0dc2c8334ce2",
+    "default_thumbnail": "91ff66f9ab2426ab72db2f17127c0d74ec5a479e71ff3f9db90e0dc2c8334ce2",
+    "roles": [],
+    "sharing": null,
+    "edits": [
+        {
+            "node_id": 610,
+            "value": "import { aq, op } from '@uwdata/arquero'"
+        }
+    ],
+    "owner": {
+        "id": "018969b4abf63b07",
+        "github_login": "mauforonda",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/4cc3af3b792916571df54649e193dbdbf80a875b4e37b1def6ecb0480c561075",
+        "login": "mauforonda",
+        "name": "Mau Foronda",
+        "bio": "",
+        "home_url": "https://mauforonda.github.io/intro/",
+        "type": "individual",
+        "tier": "public"
+    },
+    "creator": {
+        "id": "018969b4abf63b07",
+        "github_login": "mauforonda",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/4cc3af3b792916571df54649e193dbdbf80a875b4e37b1def6ecb0480c561075",
+        "login": "mauforonda",
+        "name": "Mau Foronda",
+        "bio": "",
+        "home_url": "https://mauforonda.github.io/intro/",
+        "tier": "public"
+    },
+    "authors": [
+        {
+            "id": "018969b4abf63b07",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/4cc3af3b792916571df54649e193dbdbf80a875b4e37b1def6ecb0480c561075",
+            "name": "Mau Foronda",
+            "login": "mauforonda",
+            "bio": "",
+            "home_url": "https://mauforonda.github.io/intro/",
+            "github_login": "mauforonda",
+            "tier": "public",
+            "approved": true,
+            "description": ""
+        }
+    ],
+    "collections": [],
+    "files": [
+        {
+            "id": "dd70cbdfcbcf7f9ba4bbb82abb0384b4a79e42f341e113bfe274be23b5d283bec2aed96882d01f8b1dc20841acaccecb9fd936ff53f52dbdf24ce6d3e59ac8c5",
+            "url": "https://static.observableusercontent.com/files/dd70cbdfcbcf7f9ba4bbb82abb0384b4a79e42f341e113bfe274be23b5d283bec2aed96882d01f8b1dc20841acaccecb9fd936ff53f52dbdf24ce6d3e59ac8c5",
+            "download_url": "https://static.observableusercontent.com/files/dd70cbdfcbcf7f9ba4bbb82abb0384b4a79e42f341e113bfe274be23b5d283bec2aed96882d01f8b1dc20841acaccecb9fd936ff53f52dbdf24ce6d3e59ac8c5?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27mastodon.csv",
+            "name": "mastodon.csv",
+            "create_time": "2022-11-07T18:05:51.159Z",
+            "status": "public",
+            "size": 971,
+            "mime_type": "text/csv",
+            "content_encoding": "gzip"
+        },
+        {
+            "id": "ea9b85cd6e91392772c7b3ec7ce6fa03dbf129ba7dfe386c56023230463adcd35907d3c3534cca10b1c6645087c1e5254af5b9a5d54f68ce8c973a6d15b32793",
+            "url": "https://static.observableusercontent.com/files/ea9b85cd6e91392772c7b3ec7ce6fa03dbf129ba7dfe386c56023230463adcd35907d3c3534cca10b1c6645087c1e5254af5b9a5d54f68ce8c973a6d15b32793",
+            "download_url": "https://static.observableusercontent.com/files/ea9b85cd6e91392772c7b3ec7ce6fa03dbf129ba7dfe386c56023230463adcd35907d3c3534cca10b1c6645087c1e5254af5b9a5d54f68ce8c973a6d15b32793?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27instances.csv",
+            "name": "instances.csv",
+            "create_time": "2022-11-07T18:05:51.281Z",
+            "status": "public",
+            "size": 54545,
+            "mime_type": "text/csv",
+            "content_encoding": "gzip"
+        },
+        {
+            "id": "224c44bc4419fb8124ab624579b2516141c8f8bb99e3904d6debfd3cb173bfe14c463a60e2c525be65c6ec3774f79f6cd66dfe430155c37355b644d95b1f758c",
+            "url": "https://static.observableusercontent.com/files/224c44bc4419fb8124ab624579b2516141c8f8bb99e3904d6debfd3cb173bfe14c463a60e2c525be65c6ec3774f79f6cd66dfe430155c37355b644d95b1f758c",
+            "download_url": "https://static.observableusercontent.com/files/224c44bc4419fb8124ab624579b2516141c8f8bb99e3904d6debfd3cb173bfe14c463a60e2c525be65c6ec3774f79f6cd66dfe430155c37355b644d95b1f758c?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27econtwitter.net.csv",
+            "name": "econtwitter.net.csv",
+            "create_time": "2022-11-07T18:05:59.136Z",
+            "status": "public",
+            "size": 296,
+            "mime_type": "text/csv",
+            "content_encoding": "gzip"
+        }
+    ],
+    "comments": [],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 1625,
+    "title": "What goes on in Mastodon",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": 1227,
+            "value": "<h1 style=\"display: none\">What goes on in Mastodon</h1>\n    <div class=\"mainheader\">\n      <div class=m-title><span>What goes on in Mastodon</span></div>\n      <div class=m-subtitle>users and posts checked every ~3 hours at <a href=\"https://instances.social\">instances.social</a></div>\n    </div>",
+            "pinned": false,
+            "mode": "html",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1361,
+            "value": "caption('All times are UTC')",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1258,
+            "value": "htl.html`<div class=\"m-header\"><i>how many people are coming along</i></div>`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 688,
+            "value": "viewof type = Inputs.radio(['cum', 'new', 'daily'], {\n  value:'new',\n  format: d => labels[d]\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 864,
+            "value": "doubletimeline('mastodon', `${typecaptions[type]} at mastodon`, type)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1252,
+            "value": "htl.html`<div class=\"m-header\"><i>where are they going</i></div>`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 953,
+            "value": "viewof hours = Inputs.radio([6,12,24,72], {\n  value:24,\n  format: d => `${d} hours`,\n  label: 'new in the last ...'\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1062,
+            "value": "topbars(instances_since, `30 instances with more new users in the last ${hours} hours`)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1533,
+            "value": "htl.html`<div class=\"m-header\"><i>are they joining the most popular instances?</i></div>`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1437,
+            "value": "{\n  const scaleOptions = {type: 'log',grid: true, tickSize: 0, label: null}\n  const plot = Plot.plot({\n    style: {\n      color:annotationColor\n    },\n    caption: md`*users, posts and new users in the last ${hours} hours per instance **(log)***`,\n    marginTop:10,\n    marginLeft: 30,\n    marginBottom:30,\n    width: width,\n    height: 800,\n    y: {...scaleOptions},\n    x: {...scaleOptions},\n    color: {\n      legend:true,\n      marginTop: 25,\n      marginBottom: 15,\n      marginLeft: 40,\n      height: 55,\n      type:'diverging-symlog', \n      scheme: 'burd',\n      tickSize: 5,\n      tickRotate: 0,\n      tickFormat: d3.format('~s'),\n      ticks: 3,\n      width:width - 30,\n      label:null,\n      style: {\n        color:annotationColor, \n        strokeWidth: 0\n      }\n    },\n    marks: [\n      Plot.dot(instances, {\n        x: 'users',\n        y: 'statuses',\n        stroke: null,\n        fill: d => d[hours],\n        fillOpacity: .8,\n        stroke: annotationColor,\n        strokeWidth:.5,\n        title: d => `${d.name}\\n${d.users} users\\n${d[hours]} in the last ${hours} hours\\n${d.statuses} posts`\n      }),\n      Plot.text([labels['users']], {\n        frameAnchor: 'top',\n        fontWeight:'bold',\n        fontSize: 15,\n        stroke: \"#fff\",\n        fill:annotationColor,\n        fillOpacity:.8,\n        dy: 20\n      }),\n      Plot.text([labels['statuses']], {\n        frameAnchor: 'right',\n        rotate:90,\n        fontWeight:'bold',\n        fontSize: 15,\n        stroke: \"#fff\",\n        fill:annotationColor,\n        fillOpacity:.8,\n        dx: -20\n      }),\n      Plot.text([`new users in the last ${hours} hours (log)`], {\n        frameAnchor: 'top',\n        fontWeight:'bold',\n        fontSize: 10,\n        stroke: \"#fff\",\n        fill:annotationColor,\n        fillOpacity:.8,\n        dy: -60\n      }),\n    ],\n    tooltip: {\n      \"stroke-width\": 6,\n      stroke:colors.users,\n      \"stroke-opacity\": .4\n    }\n  })\n\n  return plot                         \n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1263,
+            "value": "htl.html`<div class=\"m-header\"><i>and how a about specific communities like <b>${selected_instance}</b></i></div>`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1120,
+            "value": "viewof instance_search = Inputs.search(instances_all, {\n  headers: {name: 'Instance', users: 'Users'},\n  format: d => `${d} instances`,\n  placeholder: 'Search any instance 🔍'\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1114,
+            "value": "viewof instance_table = Inputs.table(instance_search, {\n  header: {name: 'Instance', users: 'Users'},\n  multiple:false,\n  value: instance_search[0],\n  rows:7.5,\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1160,
+            "value": "viewof dummy_submit = Inputs.button(\"Check\", {value: null, reduce: ( ) => set(viewof selected_instance, instance_table.name)})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1320,
+            "value": "viewof type2 = Inputs.radio(['cum', 'new', 'daily'], {\n  value:'new',\n  format: d => labels[d]\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 866,
+            "value": "doubletimeline('instance', `${typecaptions[type2]} at ${selected_instance}`, type2)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1620,
+            "value": "htl.html`<div class=\"m-header\"><i>... what are people saying at <b>${selected_instance}</b></i></div>`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1619,
+            "value": "viewof dummy_peek = Inputs.button(`Take a peek`, {value: null, reduce: ( ) => set(viewof peek_instance, selected_instance)})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1618,
+            "value": "peek_timeline = {\n  if (peek_instance != null) {\n    return display_toots(toots)\n  } else {\n    return md``\n  }\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 713,
+            "value": "---\nDependencies",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 610,
+            "value": "import { aq, op } from '@uwdata/arquero'",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 611,
+            "value": "import {Plot} from \"@mkfreeman/plot-tooltip\"",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 717,
+            "value": "Helper functions and constants",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1136,
+            "value": "baseURL = 'https://raw.githubusercontent.com/mauforonda/mastodon_timeline/main/data/'",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 627,
+            "value": "diff = (data, columns) => {\n  return data.derive(\n    Object.fromEntries(columns.map(t => [t, `d => d[\"${t}\"] - op.lag(d[\"${t}\"])`]))\n  ).slice(1,)\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1423,
+            "value": "filter_daily = (data) => {\n  return data.\n    orderby('updated_at').\n    groupby({date: d => op.datetime(op.year(d.updated_at), op.month(d.updated_at), op.date(d.updated_at))}).\n    slice(0,1).\n    ungroup()\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 814,
+            "value": "wrap = (...elems) => {\n  const div = document.createElement(\"div\");\n  elems.forEach(el => div.appendChild(el));\n  return div;\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 694,
+            "value": "tables = ({\n  cum:{mastodon:mastodon, instance:instance}, \n  new:{mastodon:mastodon_d, instance:instance_d}, \n  daily: {mastodon:mastodon_daily, instance:instance_daily}\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 687,
+            "value": "labels = ({cum:'all', new:'new every 3 hours', daily:'new daily', users:'users', statuses:'posts'})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 870,
+            "value": "timedomain = [1,mastodon.numRows() - 1].map(i => mastodon.array('updated_at')[i])",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 959,
+            "value": "colors =({users:'#1d6ff3', statuses:'#fdc126'})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 980,
+            "value": "annotationColor = '#828287'",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 943,
+            "value": "filter_instances = (data, column, number) => {\n  return data.\n    filter(aq.escape(d => d[column] > 0)).\n    orderby(aq.desc(column)).\n    slice(0,number).\n    select('name', String(column)).\n    rename(aq.names(['name', 'users']))\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1089,
+            "value": "numBars = 30",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1165,
+            "value": "function set(input, value) {\n  input.value = value;\n  input.dispatchEvent(new Event(\"input\", {bubbles: true}));\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1161,
+            "value": "viewof selected_instance = {const element = htl.html`<div></div>`;\n  element.value = 'econtwitter.net';\n  return element;}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1286,
+            "value": "caption = (text) => {return htl.html`<figcaption><em>${text}</em></figcaption>`}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1312,
+            "value": "typecaptions = ({cum:'all users and posts', new:'new users and posts every 3 hours', daily: 'new users and posts daily'})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1378,
+            "value": "rows = mastodon.numRows()",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1373,
+            "value": "dot_size = rows < 500 ? ((1 - (rows / 500)) * 1.5) + 1.5 : 1.5",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 728,
+            "value": "Data",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 613,
+            "value": "mastodon = {\n    const data = await aq.loadCSV(`${baseURL}mastodon.csv`)\n    return data.derive({updated_at: d => op.parse_date(d.updated_at)})\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 631,
+            "value": "mastodon_d = diff(mastodon, ['users', 'statuses'])",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1419,
+            "value": "mastodon_daily = diff(filter_daily(mastodon), ['users', 'statuses'])",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 851,
+            "value": "instance = {\n    const data = await aq.loadCSV(`${baseURL}instance/${selected_instance}.csv`)\n    return data.derive({updated_at: d => op.parse_date(d.updated_at)})\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 854,
+            "value": "instance_d = diff(instance, ['users', 'statuses'])",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1418,
+            "value": "instance_daily = diff(filter_daily(instance), ['users', 'statuses'])",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 903,
+            "value": "instances = aq.loadCSV(`${baseURL}instances.csv`)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 907,
+            "value": "instances_all = filter_instances(instances, 'users', -1)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 949,
+            "value": "instances_since = filter_instances(instances, hours, numBars)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 886,
+            "value": "Plots",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 635,
+            "value": "timeline = (data, y, x_axis, color, reverse=false) => {\n  \n  const axisOptions = {tickSize: 0, grid:true}\n  const markOptions = {x:'updated_at', y:y}\n  const xOptions = {true:{label:null, axis:'top', tickPadding:15}, false:{tickFormat:'', label:null}}\n  const max_y = aq.agg(data, op.max(y))\n  \n  const plot = Plot.plot({\n    width:width,\n    height:250,\n    marginBottom:15,\n    marginTop:25,\n    marginLeft:0,\n    marginRight:30,\n    style: {\n      color:annotationColor\n    },\n    x:{\n      ...axisOptions,\n      ...xOptions[x_axis],\n      domain:timedomain,\n      type: 'time'\n    },\n    y: {\n      ...axisOptions,\n      axis:'right',\n      reverse:reverse,\n      label: reverse ? '↓' : '↑',\n      labelAnchor: reverse ? 'top' : 'bottom',\n      labelOffset: 22,\n      tickFormat: d => d == 0 ? '' : d3.format('~s')(d),\n      ticks: max_y > 1 ? 4 : 1\n    },\n    marks: [\n      Plot.areaY(data, {\n        ...markOptions,\n        curve:'basis',\n        fill:color,\n        fillOpacity: .3\n      }),\n      Plot.lineX(data, {\n        ...markOptions,\n        curve:'basis',\n        stroke:color\n      }),\n      Plot.dotX(data, {\n        ...markOptions,\n        fill:color,\n        r: dot_size,\n        stroke: null,\n        title:d => `${d[y]} ${labels[y]}\\n${d['updated_at'].toLocaleString('en-US', {year: 'numeric', month: 'long', day: 'numeric', hour:'numeric', minute: 'numeric'})}`\n      }),\n      Plot.text([(reverse ? '↓' : '↑') + labels[y]], {\n        frameAnchor: reverse ? 'bottom-left' : 'top-left',\n        fontWeight:'bold',\n        fill:'#000'\n      })\n    ]\n  })\n  return plot\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 816,
+            "value": "doubletimeline = (dataset, figcaption, t) =>  {\n  return wrap(\n    timeline(tables[t][dataset], 'users', false, colors['users']),\n    timeline(tables[t][dataset], 'statuses', true, colors['statuses'], true),\n    caption(figcaption)\n  )\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 911,
+            "value": "topbars = (data, figcaption) => {\n  const mid = data.orderby(aq.desc('users')).array('users')[0] * .75\n  const textOptions = {x: 'users', y: 'name', text: 'name'}\n  const plot = Plot.plot({\n    marginLeft:0,\n    height:numBars * 30,\n    width:width,\n    style: {\n      color:annotationColor\n    },\n    x: {\n      axis:'top',\n      grid:true,\n      tickSize:0,\n      label:null,\n      tickFormat: d => d == 0 ? '' : d3.format('~s')(d)\n    },\n    y: {\n      axis:null\n    },\n    marks:[\n      Plot.barX(data, {\n        x: 'users',\n        y:'name',\n        fill:colors['users'],\n        fillOpacity: (6/hours) * .3 ,\n        stroke:colors['users'],\n        strokeWidth:.5,\n        insetTop:1,\n        insetBottom:1,\n        title: d => `${d.users} users`,\n        sort:{y:'x', reverse:true}\n      }),\n      Plot.text(data.filter(aq.escape(d => d.users > mid)), {\n        ...textOptions,\n        fill: colors.users,\n        fillOpacity:.9,\n        fontWeight: 'bold',\n        textAnchor: 'end',\n        dx: -7\n      }),\n      Plot.text(data.filter(aq.escape(d => d.users <= mid)), {\n        ...textOptions,\n        fill: annotationColor,\n        fontWeight: 'bold',\n        fillOpacity:.6,\n        stroke:\"#fff\",\n        textAnchor: 'start',\n        dx: 7\n      })\n    ],\n    tooltip: {\n      fill: colors['users'],\n      opacity:1,\n      stroke: colors['users'],\n      'stroke-width':1.5\n    }\n  })\n  return wrap(plot, caption(figcaption))\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1224,
+            "value": "Some CSS",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1617,
+            "value": "for inputs and headers",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1218,
+            "value": "<style type=\"text/css\">\n  form select, form input {\n    border: 1px solid ${annotationColor};\n    border-radius: 5px;\n  }\n  form select, form input[type=\"text\"], form input[type=\"search\"] {\n    padding: 8px 10px;\n    background: #fff;\n  }\n  form input[type=\"date\"] {\n    background: #fff;\n  }\n  input {\n    accent-color: ${colors.users};\n  }\n  th {\n    padding: 10px 6.5px 10px 0 !important;\n  }\n  td {\n    color: ${annotationColor};\n    padding: 5px 6.5px 5px 0 !important;\n  }\n  button {\n    background: ${colors.users};\n    border-radius: 5px;\n    border: 0px;\n    color: #fff !important;\n    padding: 8px 14px;\n    box-shadow: 0 2px 5px 1px rgba(67, 63, 60, 0.16);\n    font-size: 16px !important;\n    margin: 10px 0px;\n    }\n  a[download] button {\n    margin: 3px 0px;\n    font-size: 12px !important;\n    opacity: .7;\n  }\n  .longlines {\n    white-space:break-spaces;\n    line-height: 1.5;\n  }\n  .m-header, .mainheader {\n    background: #e9f8fc;\n    padding: 20px 30px;\n    color: #4a4a4a;\n  }\n  .mainheader{\n    background: #fff;\n    padding-left: 0px;\n  }\n  .m-title span{\n    font-size: 2.5rem;\n    font-weight: 700;\n  }\n  .m-subtitle {\n    font-style: italic;\n    font-size: 1.1rem;\n    padding: 15px 0px 20px 0px;\n  }\n</style>",
+            "pinned": false,
+            "mode": "html",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1616,
+            "value": "for toots",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1615,
+            "value": "<style type=\"text/css\">\n  .toot {\n    padding: 18px 20px;\n    border: 1px solid #E6E3E1;\n    border-radius: 5px;\n    display: flex;\n    flex-start: left;\n    margin: 15px;\n    box-shadow: 0.2px 0.4px 0.8px -10px rgba(0,0,0,0.03), 0.4px 0.9px 2px -10px rgba(0,0,0,0.030), 0.8px 1.8px 3.8px -10px rgba(0,0,0,0.038), 1.3px 3.1px 6.7px -10px rgba(0,0,0,0.045), 2.5px 5.8px 12.5px -10px rgba(0,0,0,0.06), 6px 14px 30px -10px rgba(0,0,0,0.08);\n  }\n  .avatar {\n    width: 64px;\n    height: 64px;\n  }\n  .avatar img {\n    max-width: 100%;\n    border-radius: 50%;\n  }\n  .content {\n    color: #3e3d41;\n    font-size: 14px;\n    margin-left: 20px;\n  }\n  .content p {\n    max-width: none;\n    margin: 5px 0px;\n  }\n  .content a {\n    color: #5256a0;\n  }\n  .content a:hover {\n    color: #4d54d1;\n  }\n  .user span {\n    padding: 0px 2px;\n  }\n  .displayname {\n    font-weight: bold;\n    font-size: 1.2em;\n  }\n  .content .status {\n    padding: 10px 0px;\n  }\n<style>",
+            "pinned": false,
+            "mode": "html",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1614,
+            "value": "Display toots",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 1613,
+            "value": "viewof peek_instance = {const element = htl.html`<div></div>`;\n  element.value = null;\n  return element;}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1612,
+            "value": "toots = {\n  if (peek_instance != null) {\n    return d3.json(`https://${peek_instance}/api/v1/timelines/public?local=true&limit=10`)\n  } else {\n    return []\n  }\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1611,
+            "value": "display_toot = (toot) => {\n  return htl.html`<div class=\"toot\">\n    <div class=\"avatar\"><a target=\"_blank\" href=\"${toot.account.url}\"><img src=\"${toot.account.avatar}\"></a></div>\n    <div class=\"content\">\n      <div class=\"user\"><a target=\"_blank\" href=\"${toot.account.url}\"><span class=\"displayname\">${toot.account.display_name}</span><span class=\"username\">@${toot.account.username}</span></a></div>\n      <div class=\"status\">${html`${toot.content}`}</div>\n      <div class=\"date\"><a target=\"_blank\" href=\"${toot.uri}\">${toot.created_at}</a></div>\n    </div>\n  </div>`\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1610,
+            "value": "display_toots = (toots) => {\n  const html_toots = toots.map((toot) => {return display_toot(toot)})\n  return wrap(...html_toots)\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 1331,
+            "value": "---\n\n*all data at [github](https://github.com/mauforonda/mastodon_timeline/) updated automatically since November 3, 2022*\n\n_made with ❤️ by Mauricio Foronda_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        }
+    ],
+    "resolutions": [
+        {
+            "type": "notebook",
+            "specifier": "@huggingface/parquet-quick-view",
+            "value": "160d69ba8c2b1c98@69"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@observablehq/summary-table",
+            "value": "253d3c1b5eb8410c@1935"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@mkfreeman/plot-tooltip",
+            "value": "67d1b2c32f1883c4@661"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@observablehq/plot-cheatsheets-marks",
+            "value": "d2dffac0e42406e8@3045"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@observablehq/cheatsheet-utilities",
+            "value": "794aa914fd015c9e@3360"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@nebrius/indented-toc",
+            "value": "9bed702f80a3797e@402"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@observablehq/plot-exploration-penguins",
+            "value": "32eeadb67cb4cbcb@1472"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@mbostock/pbcopy",
+            "value": "ab3e70b29c480e6d@83"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@zanarmstrong/highlight-color-w-dropdown",
+            "value": "8d6618bb2d7befdd@199"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@jashkenas/inputs",
+            "value": "e93997d5089d7165@2303"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@observablehq/plot-stack",
+            "value": "33bc32700f22adb1@885"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@john-guerra/file-input-with-default-value",
+            "value": "1371b3b2446a73b4@307"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@mbostock/file-input",
+            "value": "31ffe21a13ec2663@162"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@uwdata/arquero",
+            "value": "79750b3b8e929d9d@239"
+        }
+    ]
+}

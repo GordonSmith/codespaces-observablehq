@@ -1,0 +1,538 @@
+{
+    "id": "86732c861f425a56",
+    "slug": "views",
+    "trashed": false,
+    "description": "",
+    "likes": 123,
+    "publish_level": "public",
+    "forks": 13,
+    "fork_of": null,
+    "has_importers": true,
+    "update_time": "2022-03-31T04:08:28.837Z",
+    "publish_time": "2018-10-01T22:00:51.266Z",
+    "publish_version": 345,
+    "latest_version": 345,
+    "thumbnail": "57a391168263198f11e93345c4c5ac58fdbd6b9ebec5e5f310d195ade7986afb",
+    "default_thumbnail": "57a391168263198f11e93345c4c5ac58fdbd6b9ebec5e5f310d195ade7986afb",
+    "roles": [],
+    "sharing": null,
+    "owner": {
+        "id": "f35c755083683fe5",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+        "login": "observablehq",
+        "name": "Observable",
+        "bio": "Use data to think, together.",
+        "home_url": "https://observablehq.com",
+        "type": "team",
+        "tier": "pro_enterprise"
+    },
+    "creator": {
+        "id": "074c414ad1d825f5",
+        "github_login": "mbostock",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/82811927da99f8938001b2ef1f552ad2c47083e46ebc55a3a146a5a5848c4519",
+        "login": "mbostock",
+        "name": "Mike Bostock",
+        "bio": "Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
+        "home_url": "https://bost.ocks.org/mike/",
+        "tier": "pro"
+    },
+    "authors": [],
+    "collections": [
+        {
+            "id": "73bc2f80830bc635",
+            "type": "public",
+            "slug": "views-interactivity",
+            "title": "Views & interactivity",
+            "description": "",
+            "update_time": "2020-12-19T01:46:34.173Z",
+            "pinned": false,
+            "ordered": true,
+            "custom_thumbnail": null,
+            "default_thumbnail": "57a391168263198f11e93345c4c5ac58fdbd6b9ebec5e5f310d195ade7986afb",
+            "thumbnail": "57a391168263198f11e93345c4c5ac58fdbd6b9ebec5e5f310d195ade7986afb",
+            "listing_count": 16,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        },
+        {
+            "id": "dd678f7d96fe6dd0",
+            "type": "public",
+            "slug": "notebook-fundamentals",
+            "title": "Notebook fundamentals",
+            "description": "Understand the fundamental concepts & techniques for working with Observable notebooks.",
+            "update_time": "2020-11-18T19:20:59.733Z",
+            "pinned": false,
+            "ordered": true,
+            "custom_thumbnail": null,
+            "default_thumbnail": "2bc0308d7a3170f415db37d448684f8bb3a09825059f0b45f7b90b3a9bc56344",
+            "thumbnail": "2bc0308d7a3170f415db37d448684f8bb3a09825059f0b45f7b90b3a9bc56344",
+            "listing_count": 10,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        },
+        {
+            "id": "0b7a49725d3ab0c0",
+            "type": "public",
+            "slug": "introduction",
+            "title": "Introduction",
+            "description": "Welcome to Observable! Get started with these tutorials.",
+            "update_time": "2019-05-06T19:48:56.772Z",
+            "pinned": true,
+            "ordered": false,
+            "custom_thumbnail": "d0ff809470432afdb2269a0e1a572a12d617f2d91aa07fca5ec6fdf13e4a1a9d",
+            "default_thumbnail": "04435c346f534d9f1d0b22f03a9b2ab313891893d0dccc956d6530f60f22c081",
+            "thumbnail": "d0ff809470432afdb2269a0e1a572a12d617f2d91aa07fca5ec6fdf13e4a1a9d",
+            "listing_count": 33,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        }
+    ],
+    "files": [
+        {
+            "id": "7b6ff41e373e01d7b5b95773e297d40625bd9ccc1936a023a066a7edd8da5eaadec4ab7a565303539e41e001f2e6730f3ee1e259fae4f19dc59e8d6b2f2ec22b",
+            "url": "https://static.observableusercontent.com/files/7b6ff41e373e01d7b5b95773e297d40625bd9ccc1936a023a066a7edd8da5eaadec4ab7a565303539e41e001f2e6730f3ee1e259fae4f19dc59e8d6b2f2ec22b",
+            "download_url": "https://static.observableusercontent.com/files/7b6ff41e373e01d7b5b95773e297d40625bd9ccc1936a023a066a7edd8da5eaadec4ab7a565303539e41e001f2e6730f3ee1e259fae4f19dc59e8d6b2f2ec22b?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27land-50m.json",
+            "name": "land-50m.json",
+            "create_time": "2020-06-20T16:23:55.019Z",
+            "status": "public",
+            "size": 545534,
+            "mime_type": "application/json",
+            "content_encoding": "gzip"
+        }
+    ],
+    "comments": [
+        {
+            "id": "be540d8f72e259ef",
+            "content": "I really wish I had paid more attention to this parenthesis before spending an hour or more banging my head against the wall wondering why my HTML button view wasn't working 😩",
+            "node_id": 17,
+            "create_time": "2021-05-05T11:10:02.514Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "14f7c7deab027a14",
+                "github_login": null,
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/700c1969cd2ce22cc4ad0f99634b521dd0d43fbcd2a9988d6a19d878c02ae9f3",
+                "login": "grahamsnyder",
+                "name": "Graham Snyder",
+                "bio": "Omega male. Poor man’s renaissance man.",
+                "home_url": "",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "90bbc0c35e7f0d91",
+            "content": "The div doesn't seem to animate upon being clicked unless you wrap `element.style.transform = \"inherit\"` in a timeout. (At least, that's the behavior on my computer.) I assume this used to work correctly... did browser behavior regarding CSS transforms and/or transitions change since this was written?",
+            "node_id": 161,
+            "create_time": "2020-09-18T14:53:53.716Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "f9e5784b8de6444e",
+                "github_login": "mattdiamond",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/cb45f7f9a7385b5db6258b7130fd1d66bdb91af492cf965d26b049bda3d52391",
+                "login": "mattdiamond",
+                "name": "Matt Diamond",
+                "bio": "Creator of /r/AskOuija, a collective intelligence masquerading as a subreddit.",
+                "home_url": "http://matt-diamond.com",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "af627d7319f7a564",
+            "content": "Ignore the above comment re: wrapping inherit in a timeout... that will get you an animation if the timeout is large, but it's not the intended animation. I see now what the underlying problem is: the requestAnimationFrame callback occurs before the original transition takes effect. Interestingly, if I wrap the requestAnimationFrame call with another requestAnimationFrame call, then I get the expected behavior. It seems that the first requestAnimationFrame call takes place within the same render as the first transition, and calling requestAnimationFrame at that stage will allow you to ensure that the new transition is applied on the subsequent render, after the initial transition has taken effect.",
+            "node_id": 161,
+            "create_time": "2020-09-18T15:29:14.184Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "f9e5784b8de6444e",
+                "github_login": "mattdiamond",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/cb45f7f9a7385b5db6258b7130fd1d66bdb91af492cf965d26b049bda3d52391",
+                "login": "mattdiamond",
+                "name": "Matt Diamond",
+                "bio": "Creator of /r/AskOuija, a collective intelligence masquerading as a subreddit.",
+                "home_url": "http://matt-diamond.com",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "959f766b6d2eb604",
+            "content": "Same issue, it works to me if I replace the raf with a timeout too\nsetTimeout(()=>{\n        element.style.transition = \"transform 250ms ease\";\n        element.style.transform = \"inherit\";\n    })",
+            "node_id": 161,
+            "create_time": "2021-02-07T09:30:04.196Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "e594cd7b50bd5352",
+                "github_login": "a10k",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/a613c965e2b8538202804cd2e0482ff0ef870587641ddcf782a3ce291a0dbc52",
+                "login": "a10k",
+                "name": "Alok Pepakayala",
+                "bio": "Data visualization, Power BI custom visuals, Tableau extensions, Interactive media and full-stack data science web app developer.",
+                "home_url": "",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "4a2d7c303e53e1f2",
+            "content": "should be 'new Event(\"input\", {bubbles: true})'",
+            "node_id": 161,
+            "create_time": "2021-10-25T19:13:09.071Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "5215f6ec4a999d40",
+                "github_login": "tomlarkworthy",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/47327a8bc1966f2186dcb3ebf4b7ee6e4e7ab9a5c2a07405aff57200ea778f71",
+                "login": "tomlarkworthy",
+                "name": "Tom Larkworthy",
+                "bio": "Fullstack developer at Taktile.\nFormerly Firebase, Google",
+                "home_url": "https://taktile.com",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "56687288d134a4c5",
+            "content": "Fixed, thanks.",
+            "node_id": 161,
+            "create_time": "2021-10-25T21:48:32.710Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "074c414ad1d825f5",
+                "github_login": "mbostock",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/82811927da99f8938001b2ef1f552ad2c47083e46ebc55a3a146a5a5848c4519",
+                "login": "mbostock",
+                "name": "Mike Bostock",
+                "bio": "Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
+                "home_url": "https://bost.ocks.org/mike/",
+                "tier": "pro"
+            }
+        }
+    ],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 345,
+    "title": "Introduction to Views",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": 0,
+            "value": "md`# Introduction to Views\n\nIn Observable, a *view* is a user interface element that directly controls a *value* in the notebook. A view consists of two parts:\n\n* The *view*, which is typically an interactive DOM element (see [Introduction to HTML](https://observablehq.com/@observablehq/introduction-to-html) for more about DOM elements).\n* The *value*, which is any JavaScript value.\n\nFor example, a view could be an [Observable range input](https://observablehq.com/@observablehq/input-range?collection=@observablehq/inputs) whose value is a number:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 10,
+            "value": "viewof x = Inputs.range([0,1])",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 14,
+            "value": "x",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 65,
+            "value": "md`A view could be a text input whose value is a string:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 67,
+            "value": "viewof message = Inputs.text({placeholder: \"Say hello\"})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 72,
+            "value": "message",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 77,
+            "value": "dropdownMenu = md `A view could be a dropdown menu to choose from a set of options:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 75,
+            "value": "viewof color = Inputs.select([\"red\", \"orange\", \"yellow\", \"green\", \"blue\", \"violet\"], {value: \"green\"})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 223,
+            "value": "color",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 17,
+            "value": "So far we've made use of [Observable Inputs](https://observablehq.com/@observablehq/inputs?collection=@observablehq/inputs)—range sliders, dropdowns, and other lightweight interface components that help you explore data and build interactivity into your notebook. But views aren't limited to these input types. A view can have any visual representation you desire, and any value, too. You can use DOM elements to build more complex views.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 330,
+            "value": "For example, a view could be a map that lets you specify any point on Earth:",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 20,
+            "value": "viewof point = {\n  const height = width / 2;\n  const context = DOM.context2d(width, height);\n  const projection = d3.geoEqualEarth().fitSize([width, height], {type: \"Sphere\"});\n  const path = d3.geoPath(projection, context);\n  let mousedown = false;\n\n  context.beginPath(), path(graticule), context.strokeStyle = \"#ccc\", context.stroke();\n  context.beginPath(), path(land), context.fill();\n  context.beginPath(), path(sphere), context.strokeStyle = \"#000\", context.stroke();\n  context.lineWidth = 2, context.strokeStyle = \"#f00\";\n  const image = context.getImageData(0, 0, context.canvas.width, context.canvas.height);\n\n  function render(coordinates) {\n    context.canvas.value = coordinates;\n    context.clearRect(0, 0, width, height);\n    context.putImageData(image, 0, 0);\n    context.beginPath(), path({type: \"Point\", coordinates}), context.stroke();\n  }\n\n  context.canvas.onmousedown = event => {\n    mousedown = true;\n    context.canvas.onmousemove(event);\n  };\n\n  context.canvas.onmousemove = ({layerX, layerY}) => {\n    if (!mousedown) return;\n    render(projection.invert([layerX, layerY]));\n    context.canvas.dispatchEvent(new CustomEvent(\"input\"));\n  };\n\n  context.canvas.onmouseup = event => {\n    mousedown = false;\n  };\n\n  render([0, 0]);\n  return context.canvas;\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 38,
+            "value": "point",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 106,
+            "value": "md`A view could be a blank canvas for the user to draw a squiggle:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 108,
+            "value": "viewof stroke = {\n  const height = 280;\n  const context = DOM.context2d(width, height);\n  const curve = d3.curveBasis(context);\n  const canvas = context.canvas;\n  let stroke = [[102,211],[103,210],[108,200],[120,187],[142,154],[159,121],[173,90],[185,66],[192,52],[197,41],[199,35],[199,33],[199,32],[199,31],[199,31],[199,30],[199,31],[195,39],[187,53],[177,75],[166,103],[155,129],[147,144],[135,171],[132,178],[124,194],[120,203],[118,208],[116,213],[115,216],[114,218],[114,219],[113,220],[113,218],[114,214],[122,203],[134,185],[141,175],[148,168],[154,161],[159,157],[163,155],[167,153],[169,153],[171,153],[172,153],[173,155],[173,162],[173,171],[173,181],[173,193],[173,204],[173,210],[173,215],[174,218],[176,220],[178,221],[179,221],[183,222],[189,222],[197,216],[209,205],[222,188],[230,174],[235,164],[238,157],[239,152],[239,149],[238,148],[235,148],[230,148],[225,149],[221,153],[218,159],[216,165],[216,172],[216,180],[218,188],[224,196],[230,203],[236,206],[246,209],[253,209],[259,206],[265,199],[271,190],[280,174],[283,168],[287,159],[289,155],[290,151],[293,145],[296,139],[303,128],[310,113],[315,100],[320,86],[320,79],[321,70],[319,67],[312,66],[303,66],[291,74],[282,86],[273,102],[267,121],[262,141],[260,162],[260,176],[260,195],[263,210],[269,220],[275,225],[282,227],[288,226],[299,216],[311,192],[317,172],[328,139],[334,117],[341,92],[345,72],[347,65],[348,55],[349,50],[349,48],[347,47],[344,47],[340,51],[332,62],[327,72],[319,90],[314,109],[310,129],[308,152],[308,169],[308,188],[309,205],[314,218],[319,226],[326,231],[331,232],[337,232],[341,228],[345,223],[348,217],[351,211],[355,205],[357,201],[360,195],[361,192],[361,187],[362,182],[362,180],[362,178],[362,177],[362,176],[362,175],[361,175],[359,174],[358,174],[356,174],[355,174],[353,174],[352,175],[351,176],[349,180],[348,185],[347,190],[347,197],[347,203],[349,206],[353,208],[358,209],[362,209],[366,204],[368,197],[370,189],[370,181],[370,176],[370,171],[369,167],[368,164],[367,162],[366,162],[365,162],[365,162],[365,162],[366,162],[371,162],[379,162],[389,162],[399,161],[413,154],[421,146],[425,142]];\n\n  context.beginPath();\n  curve.lineStart();\n  for (const p of stroke) curve.point(...p);\n  curve.lineEnd();\n  context.stroke();\n\n  canvas.value = stroke;\n  stroke = null;\n\n  canvas.ontouchstart =\n  canvas.onmousedown = event => {\n    stroke = canvas.value = [];\n    canvas.onmousemove(event);\n  };\n\n  canvas.ontouchend =\n  canvas.onmouseup = () => {\n    stroke = null;\n  };\n\n  canvas.ontouchmove =\n  canvas.onmousemove = event => {\n    if (stroke === null) return;\n    event.preventDefault();\n    stroke.push([event.layerX, event.layerY]);\n    context.clearRect(0, 0, width, height);\n    context.beginPath();\n    curve.lineStart();\n    for (const p of stroke) curve.point(...p);\n    curve.lineEnd();\n    context.stroke();\n    canvas.dispatchEvent(new CustomEvent(\"input\"));\n  };\n\n  return canvas;\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 115,
+            "value": "stroke",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 126,
+            "value": "md`If there is a value you’d like the user to control in your notebook, represent that value as a view. By doing so, you won’t need to manage event listeners and mutable state—you can simply refer to the value, and whenever the user changes it, your code will run automatically. For example, in the color dropdown menu you saw earlier, the selected color is <span style=\"display:inline-block;background-color:${color.toLowerCase()};width:1em;height:1em;\"></span> ${color}; if you [go back](#dropdownMenu) and select a different color, the color patch in this cell updates.`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 315,
+            "value": "md`A view’s value is exposed as *element*.value. For example, here's a static view (one whose value never changes), for the purposes of illustration:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 135,
+            "value": "viewof silly = {\n  const element = htl.html`<div>I am a silly view!</div>`;\n  element.value = \"I am a silly value.\";\n  return element;\n}",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 141,
+            "value": "silly",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 183,
+            "value": "md`The \\`viewof\\` operator is just shorthand for defining the view and its value in the same cell. You can define them as separate cells if you prefer:`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 186,
+            "value": "explicitView = Inputs.range([0,100])",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 193,
+            "value": "explicitValue = Generators.input(explicitView)",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 295,
+            "value": "And, just as you can reference *explicitView* from another cell, you can reference the view defined by `viewof` from another cell, too. For example, you can refer to the value of the view *x* defined at the top of this notebook:",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 298,
+            "value": "md `The value of *x* is ${viewof x.value}.`",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 137,
+            "value": "To trigger the re-evaluation of any cell that references a view's value, the view must emit an *input* event. Here's another silly view that counts clicks (click on the emoji and then read the value of *count* below):",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 161,
+            "value": "viewof count = {\n  const element = html`<div style=\"display: inline-block; font-size: 64px; user-select: none;\">🤪</div>`;\n  element.value = 0;\n  element.onmousedown = () => {\n    element.style.transition = \"none\";\n    element.style.transform = `scale(1.5) rotate(${Math.random() * 90 - 45}deg)`;\n  };\n  element.onclick = () => {\n    ++element.value;\n    element.dispatchEvent(new Event(\"input\", {bubbles: true}));\n    requestAnimationFrame(() => {\n      element.style.transition = \"transform 250ms ease\";\n      element.style.transform = \"inherit\";\n    });\n  };\n  return element;\n}",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 166,
+            "value": "count",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 174,
+            "value": "md`As you might have guessed, the reason that HTML input elements work by default as views is that these elements have a value property and they emit *input* events when you interact with them. (There is a little extra logic for dealing with idiosyncrasies; see the [Generators.input](https://github.com/observablehq/stdlib/blob/master/src/generators/input.js) source for details. And actually, a view doesn’t need to be a DOM element; it only needs to support the [EventTarget interface](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget). For an example of a non-element view, see the [Synchronized Inputs](https://observablehq.com/@observablehq/synchronized-inputs?collection=@observablehq/inputs) notebook.)\n\nNext time you find yourself reaching for an event listener or mutating global state, try a view instead. Now you’re thinking with dataflow.`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 215,
+            "value": "md`---\n\n## Further Reading\n\n[Observable Inputs](https://observablehq.com/@observablehq/inputs?collection=@observablehq/inputs)\n<br>[Introduction to Generators](https://observablehq.com/@observablehq/introduction-to-generators?collection=@observablehq/generators)\n<br>[Synchronized Inputs](https://observablehq.com/@observablehq/synchronized-inputs?collection=@observablehq/inputs)\n<br>[Form Inputs](https://observablehq.com/@observablehq/input-form?collection=@observablehq/inputs)\n<br>[Wait Until Button](/@mbostock/wait-until-button)`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 34,
+            "value": "md`---\n\n## Appendix`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 31,
+            "value": "sphere = ({type: \"Sphere\"})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 29,
+            "value": "graticule = d3.geoGraticule10()",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 27,
+            "value": "land = topojson.feature(world, world.objects.land)",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 25,
+            "value": "world = FileAttachment(\"land-50m.json\").json()",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 23,
+            "value": "topojson = require(\"topojson-client@3\")",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        }
+    ],
+    "resolutions": []
+}

@@ -1,0 +1,479 @@
+{
+    "id": "f3d342db2d382751",
+    "slug": "plot",
+    "trashed": false,
+    "description": "",
+    "likes": 398,
+    "publish_level": "public",
+    "forks": 45,
+    "fork_of": null,
+    "has_importers": true,
+    "update_time": "2022-06-28T16:19:27.669Z",
+    "publish_time": "2021-05-04T05:14:55.223Z",
+    "publish_version": 816,
+    "latest_version": 816,
+    "thumbnail": "64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa",
+    "default_thumbnail": "30094a44b335e7df9a1c7c819668e55a5524abc893ae1df80a61215226fab072",
+    "roles": [],
+    "sharing": null,
+    "owner": {
+        "id": "f35c755083683fe5",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+        "login": "observablehq",
+        "name": "Observable",
+        "bio": "Use data to think, together.",
+        "home_url": "https://observablehq.com",
+        "type": "team",
+        "tier": "pro_enterprise"
+    },
+    "creator": {
+        "id": "074c414ad1d825f5",
+        "github_login": "mbostock",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/82811927da99f8938001b2ef1f552ad2c47083e46ebc55a3a146a5a5848c4519",
+        "login": "mbostock",
+        "name": "Mike Bostock",
+        "bio": "Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
+        "home_url": "https://bost.ocks.org/mike/",
+        "tier": "pro"
+    },
+    "authors": [
+        {
+            "id": "074c414ad1d825f5",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/82811927da99f8938001b2ef1f552ad2c47083e46ebc55a3a146a5a5848c4519",
+            "name": "Mike Bostock",
+            "login": "mbostock",
+            "bio": "Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
+            "home_url": "https://bost.ocks.org/mike/",
+            "github_login": "mbostock",
+            "tier": "pro",
+            "approved": true,
+            "description": ""
+        }
+    ],
+    "collections": [
+        {
+            "id": "42ddd3b819453f59",
+            "type": "public",
+            "slug": "observable-libraries-for-visualization",
+            "title": "Observable Libraries for Visualization",
+            "description": "Learn about our standard libraries for making powerful visualizations. ",
+            "update_time": "2022-08-31T15:41:00.984Z",
+            "pinned": false,
+            "ordered": true,
+            "custom_thumbnail": null,
+            "default_thumbnail": "66443e11f51a9050009a0d669ce1b794b79137b58261868f2bee3223ca5839d5",
+            "thumbnail": "66443e11f51a9050009a0d669ce1b794b79137b58261868f2bee3223ca5839d5",
+            "listing_count": 4,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        },
+        {
+            "id": "febc26eef760de7c",
+            "type": "public",
+            "slug": "plot",
+            "title": "Observable Plot",
+            "description": "A concise API for exploratory data visualization",
+            "update_time": "2021-05-04T05:19:06.423Z",
+            "pinned": false,
+            "ordered": true,
+            "custom_thumbnail": "64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa",
+            "default_thumbnail": "64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa",
+            "thumbnail": "64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa",
+            "listing_count": 36,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        },
+        {
+            "id": "7eea0c678f957b61",
+            "type": "public",
+            "slug": "libraries",
+            "title": "Libraries",
+            "description": "Reusable notebooks, ready for import and remix.",
+            "update_time": "2020-12-01T00:42:27.585Z",
+            "pinned": true,
+            "ordered": true,
+            "custom_thumbnail": "a578557db9cf6c6689c756dd42172a43ad8d87b195c9589fcbe1e9a0cae9cdef",
+            "default_thumbnail": "5a8d92da8e3ba985b0f568c02543420a883fe44998e12fb266cdb0a907d0b98d",
+            "thumbnail": "a578557db9cf6c6689c756dd42172a43ad8d87b195c9589fcbe1e9a0cae9cdef",
+            "listing_count": 25,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise"
+            }
+        }
+    ],
+    "files": [
+        {
+            "id": "31ca24545a0603dce099d10ee89ee5ae72d29fa55e8fc7c9ffb5ded87ac83060d80f1d9e21f4ae8eb04c1e8940b7287d179fe8060d887fb1f055f430e210007c",
+            "url": "https://static.observableusercontent.com/files/31ca24545a0603dce099d10ee89ee5ae72d29fa55e8fc7c9ffb5ded87ac83060d80f1d9e21f4ae8eb04c1e8940b7287d179fe8060d887fb1f055f430e210007c",
+            "download_url": "https://static.observableusercontent.com/files/31ca24545a0603dce099d10ee89ee5ae72d29fa55e8fc7c9ffb5ded87ac83060d80f1d9e21f4ae8eb04c1e8940b7287d179fe8060d887fb1f055f430e210007c?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27athletes.csv",
+            "name": "athletes.csv",
+            "create_time": "2021-03-31T21:50:16.928Z",
+            "status": "public",
+            "size": 841836,
+            "mime_type": "text/csv",
+            "content_encoding": "gzip"
+        }
+    ],
+    "comments": [
+        {
+            "id": "31c4bc61ba76f4fd",
+            "content": "`Swatches` is not in use?",
+            "node_id": 270,
+            "create_time": "2021-06-23T05:57:20.829Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "4f91695597e4d559",
+                "github_login": "t829702",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/f4bc3cc73efe18a34e58d121d3fa2fe8f759eb5a6a3764dd7e4178a905a1ae80",
+                "login": "t829702",
+                "name": "",
+                "bio": "",
+                "home_url": "",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "a72a0ce55be0bb28",
+            "content": "it's the color legend in the second cell of this notebook—in a future version, Plot will be able to create its own color legends (actually based on the code for swatches)",
+            "node_id": 270,
+            "create_time": "2021-06-23T08:32:39.042Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "45a379fcfcb14253",
+                "github_login": "Fil",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/9cf371db2e1a2b4ed5f4a9783b6954cf7aeb2a88c56d4054c96ef360cf85ef89",
+                "login": "fil",
+                "name": "Fil",
+                "bio": "Vocateur.",
+                "home_url": "https://visionscarto.net/",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "13a159acade5a18d",
+            "content": "is plot compatible with arquero data tables?",
+            "node_id": 311,
+            "create_time": "2021-05-27T19:13:32.485Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "bda3bb7cbffeec7d",
+                "github_login": "dan-reznik",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/34300050560dea2b36d63efd30e3f07e6f455717f9e917936080d33429d8b426",
+                "login": "dan-reznik",
+                "name": "Dan S. Reznik",
+                "bio": "Data Analytics Consultant, Instructor. Areas: Data Analytics, Geometry, Simulation, Visualization, Computer Vision, Robotics...",
+                "home_url": "http://www.dat-sci.com",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "7ac5ebef94439442",
+            "content": "deeper integration between Plot and Arquero is being worked on: https://observablehq.com/d/eab191ed35920c7c",
+            "node_id": 311,
+            "create_time": "2021-07-16T13:53:20.696Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "595405df3c534894",
+                "github_login": "enjalot",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/549bdb0c368027004b51c4e95459e9c224331e0fec9c4cc97d181f83e55ab7f9",
+                "login": "enjalot",
+                "name": "Ian Johnson",
+                "bio": "pixel flipper, data sifter. trying to see what I can while I'm here",
+                "home_url": "http://enjalot.github.io",
+                "tier": "pro"
+            }
+        },
+        {
+            "id": "4840f1fc6f9969c0",
+            "content": "Yes, you can pass Arquero table instances (and Apache Arrow table instances) directly to Plot for use as data.",
+            "node_id": 311,
+            "create_time": "2021-08-23T20:16:06.627Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "074c414ad1d825f5",
+                "github_login": "mbostock",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/82811927da99f8938001b2ef1f552ad2c47083e46ebc55a3a146a5a5848c4519",
+                "login": "mbostock",
+                "name": "Mike Bostock",
+                "bio": "Building a better computational medium. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
+                "home_url": "https://bost.ocks.org/mike/",
+                "tier": "pro"
+            }
+        }
+    ],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 816,
+    "title": "Observable Plot",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": 0,
+            "name": "",
+            "value": "# Observable Plot\n\n[Observable Plot](https://github.com/observablehq/plot) is a free, open-source JavaScript library to help you quickly visualize tabular data. It has a concise and (hopefully) memorable API to foster fluency — and plenty of examples to learn from and copy-paste.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 259,
+            "name": "",
+            "value": "In the spirit of *show don’t tell*, below is a scatterplot of the height and weight of Olympic athletes (sourced from [Matt Riggott](https://flother.is/2017/olympic-games-data/)), constructed using a [dot mark](/@observablehq/plot-dot?collection=@observablehq/plot). We assign columns of data (such as *weight*) to visual properties (such as the dot’s *x*), and Plot infers the rest. You can configure much more, if needed, but Plot’s goal is to help you get a meaningful visualization quickly.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 161,
+            "name": null,
+            "value": "athletes = FileAttachment(\"athletes.csv\").csv({typed: true})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 272,
+            "name": null,
+            "value": "dotplot.legend(\"color\")",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 184,
+            "name": null,
+            "value": "dotplot = Plot.dot(athletes, {x: \"weight\", y: \"height\", stroke: \"sex\"}).plot()",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 473,
+            "name": null,
+            "value": "Inputs.table(athletes)",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 518,
+            "name": "",
+            "value": "This scatterplot suffers from overplotting: many dots are drawn in the same spot, so it’s hard to perceive density. We can fix this by [binning](/@observablehq/plot-bin?collection=@observablehq/plot) athletes of similar height and weight (and sex), then using opacity to encode the number of athletes in the bin.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 509,
+            "name": null,
+            "value": "Plot.rect(athletes, Plot.bin({fillOpacity: \"count\"}, {x: \"weight\", y: \"height\", fill: \"sex\"})).plot()",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 285,
+            "name": "",
+            "value": "A simpler take on this data is to focus on one dimension: weight. We can use the bin transform again to make a histogram with weight on the *x*-axis and frequency on the *y*-axis. This plot uses a [rect mark](/@observablehq/plot-rect?collection=@observablehq/plot) and an implicit [stack transform](/@observablehq/plot-stack?collection=@observablehq/plot).",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 162,
+            "name": null,
+            "value": "Plot.rectY(athletes, Plot.binX({y: \"count\"}, {x: \"weight\", fill: \"sex\"})).plot()",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 443,
+            "name": "",
+            "value": "Or if we’d prefer to show the two distributions separately as small multiples, we can [facet](/@observablehq/plot-facets?collection=@observablehq/plot) the data along *y* (keeping the *fill* encoding for consistency, and adding grid lines and a rule at *y* = 0 to improve readability).",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 439,
+            "name": null,
+            "value": "Plot.plot({\r\n  grid: true,\r\n  facet: {\r\n    data: athletes,\r\n    y: \"sex\"\r\n  },\r\n  marks: [\r\n    Plot.rectY(athletes, Plot.binX({y: \"count\"}, {x: \"weight\", fill: \"sex\"})),\r\n    Plot.ruleY([0])\r\n  ]\r\n})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 240,
+            "name": "",
+            "value": "Plot employs a layered grammar of graphics inspired by [Vega-Lite](https://vega.github.io/vega-lite/), [ggplot2](https://vita.had.co.nz/papers/layered-grammar.html), Wilkinson’s *Grammar of Graphics*, and Bertin’s *Semiology of Graphics*. Plot rejects a chart typology in favor of [marks](/@observablehq/plot-marks?collection=@observablehq/plot), [scales](/@observablehq/plot-scales?collection=@observablehq/plot), and [transforms](/@observablehq/plot-transforms?collection=@observablehq/plot). Plot can be readily extended in JavaScript, whether to define a channel, a transform, or even a custom mark. And Plot is compatible with [Observable dataflow](/@observablehq/how-observable-runs): use [inputs](/@observablehq/inputs) to control charts, and [views](/@observablehq/introduction-to-views) to read chart selections. (This last part is coming soon!)",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 311,
+            "name": "",
+            "value": "We created Plot to better support exploratory data analysis in reactive, JavaScript notebooks like Observable. We continue to support D3 for bespoke explanatory visualization and recommend Vega-Lite for imperative, polyglot environments such as Jupyter. Plot lets you see your ideas quickly, supports interaction with minimal fuss, is flexible with respect to data, and can be readily extended by the community. We believe people will be more successful finding and sharing insight if there’s less wrestling with the intricacies of programming and more “using vision to think.”",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 774,
+            "name": "",
+            "value": "To learn more, start with [Plot: Marks and Channels](/@observablehq/plot-marks?collection=@observablehq/plot) or dive into the docs below.\n\nOr for a quick overview, see the interactive [Plot Cheatsheets](https://observablehq.com/@observablehq/plot-cheatsheets) or [download the PDF](https://github.com/observablehq/plot-cheatsheets/raw/main/plot-cheatsheets.pdf).",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 38,
+            "name": null,
+            "value": "concepts = md`---\r\n\r\n## Concepts\r\n\r\nThese core concepts provide Plot’s foundation.`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 410,
+            "name": null,
+            "value": "html`${previews([\r\n{\r\n  path: \"@observablehq/plot-marks?collection=@observablehq/plot\",\r\n  thumbnail: \"17e04344c0f0cee103a18bfd0853f6af30baa28f0439d19dc231a473373ab8f5\",\r\n  title: \"Marks and Channels\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-scales?collection=@observablehq/plot\",\r\n  thumbnail: \"fc104fd0099a7333f000901b3d9a38e4b4f8a9e8bac40ffd746aab1cc9f21fa5\",\r\n  title: \"Scales\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-transforms?collection=@observablehq/plot\",\r\n  thumbnail: \"c7c6bd4e567a9e3081d3c56e19d91ddc56c4591e7d281ab601188c3018a70c5f\",\r\n  title: \"Transforms\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-facets?collection=@observablehq/plot\",\r\n  thumbnail: \"e58c30cf3f770a5b5b2c1b1cb76ac20b77dc5364c713158e044324c785233f3e\",\r\n  title: \"Facets\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-legends?collection=@observablehq/plot\",\r\n  thumbnail: \"35db49733fa8e379ee43991bce223d6b426640cc426e8f506c112286778caa11\",\r\n  title: \"Legends\"\r\n}\r\n], {target: null})}`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 45,
+            "name": null,
+            "value": "marks = md`---\r\n\r\n## Marks\r\n\r\nPlot provides built-in graphical marks for common charts.`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 387,
+            "name": null,
+            "value": "html`${previews([\r\n{\r\n  path: \"@observablehq/plot-area?collection=@observablehq/plot\",\r\n  thumbnail: \"f0a4487c91350493f1880454fbbdf91c421f9bd8868af4936757be73a8717b7b\",\r\n  title: \"Area\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-arrow?collection=@observablehq/plot\",\r\n  thumbnail: \"91bc584168279712c59bec43091e2407e50c31362cec3b1420ba1f97115e5a73\",\r\n  title: \"Arrow\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-bar?collection=@observablehq/plot\",\r\n  thumbnail: \"3d378538d99293ba7b7285b0e70fe18009337de7dd829c75dbd6d693517432ca\",\r\n  title: \"Bar\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-box?collection=@observablehq/plot\",\r\n  thumbnail: \"d0c067bba581b4496a1bbbc8209f24e297de23445b437ac3c81a2a2e013b9778\",\r\n  title: \"Box\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-cell?collection=@observablehq/plot\",\r\n  thumbnail: \"b5b820dbad95e6a67205c6b930f07e9cc926bdd5d43e1286146dd86cafaeedef\",\r\n  title: \"Cell\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-delaunay?collection=@observablehq/plot\",\r\n  thumbnail: \"10eb7be4221d152d6caa5782696df4b57d2b411e5980e92ac789b303176a4484\",\r\n  title: \"Delaunay\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-density?collection=@observablehq/plot\",\r\n  thumbnail: \"0437302677376a942aa51f44f24491ad10fed95b427ab747f2d8221b5339e868\",\r\n  title: \"Density\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-dot?collection=@observablehq/plot\",\r\n  thumbnail: \"323235720172d6fee0ef5d6168490cbed268c9033ae120b4c91ad2b266bdd184\",\r\n  title: \"Dot\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-image?collection=@observablehq/plot\",\r\n  thumbnail: \"460aa771e3208a4e3f45d4ed85c50c85516bca054d4606ea6649a48fcc4f111e\",\r\n  title: \"Image\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-line?collection=@observablehq/plot\",\r\n  thumbnail: \"42bfda8e0c228d0dbc5e661296742a4ec39baf9f9c60c280be85d237e0cd73fc\",\r\n  title: \"Line\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-linear-regression?collection=@observablehq/plot\",\r\n  thumbnail: \"ee0e226b7139db9e9f9f68d93e08938e21f915bb815e88ead2db2ad28e76280c\",\r\n  title: \"Linear Regression\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-link?collection=@observablehq/plot\",\r\n  thumbnail: \"3eac02b86fdaa4ed37924a8f8c7b582e77211136493f0bccdc1f8153e72d8297\",\r\n  title: \"Link\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-rect?collection=@observablehq/plot\",\r\n  thumbnail: \"e4bf03d155af21a24533562d7fa68d3de7b69039f83294594bd3db0f7e5fa934\",\r\n  title: \"Rect\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-rule?collection=@observablehq/plot\",\r\n  thumbnail: \"06ba94eeed4d9b60d019cf8f0b032e27b4c4936fe3ad13b2dc47b79e871ffcf7\",\r\n  title: \"Rule\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-text?collection=@observablehq/plot\",\r\n  thumbnail: \"38ce703e6382ebc50f3f9015b5216ce824c312ddca03f7b345823010685fc914\",\r\n  title: \"Text\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-tick?collection=@observablehq/plot\",\r\n  thumbnail: \"17ac3016ac7dc061e904156a0c7631abdaa60f541e9127c4c4c4bdef5b06fe3f\",\r\n  title: \"Tick\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-vector?collection=@observablehq/plot\",\r\n  thumbnail: \"ad91e0b1ab74040f4fecfc74b5415671394179bc267d0a9e77ba2242e981ffbd\",\r\n  title: \"Vector\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-frame?collection=@observablehq/plot\",\r\n  thumbnail: \"0a551b1d232053a3a8c1bb868e09d1754ad7c054822766b566843a575ab9d183\",\r\n  title: \"Frame\"\r\n}\r\n], {target: null})}`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 54,
+            "name": null,
+            "value": "transforms = md`---\r\n\r\n## Transforms\r\n\r\nPlot provides built-in transforms for deriving data.`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 402,
+            "name": null,
+            "value": "html`${previews([\r\n{\r\n  path: \"@observablehq/plot-group?collection=@observablehq/plot\",\r\n  thumbnail: \"17ae90540a6c2e950dc2625a1217297ed9a177ae48c3535c61893b1b49213990\",\r\n  title: \"Group\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-bin?collection=@observablehq/plot\",\r\n  thumbnail: \"6c7912a62a512d88ee539cb621b8d7334b97ef60e60a6437b711aed32ec4f418\",\r\n  title: \"Bin\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-stack?collection=@observablehq/plot\",\r\n  thumbnail: \"e9cc1076c63314fb1f644b2eaca629480682a46085c0fa6bf032b04f8ab4c882\",\r\n  title: \"Stack\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-map?collection=@observablehq/plot\",\r\n  thumbnail: \"664128766139683663b4a54e4d6fb7fe023bb14504da53a6ab8d5845b521646e\",\r\n  title: \"Map\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-window?collection=@observablehq/plot\",\r\n  thumbnail: \"a675ab3e532f9beef208148886f1b667fac06148ddedad19f33b60ced8c0f612\",\r\n  title: \"Window\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-select?collection=@observablehq/plot\",\r\n  thumbnail: \"7901ac621b6ad99134bc3d532a92fb1274836b14b829529c500a38a1cad48c71\",\r\n  title: \"Select\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-interval?collection=@observablehq/plot\",\r\n  thumbnail: \"e3916c7ce03e0a15565e9a4447e3524f98d28d620c3c38a97461b4a56453aa20\",\r\n  title: \"Interval\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-dodge?collection=@observablehq/plot\",\r\n  thumbnail: \"c5edc82ad424d0698c9b8a397dc73a413ad3a1c19fba70385dcbfda52cc9c0c7\",\r\n  title: \"Dodge\"\r\n},\r\n{\r\n  path: \"@observablehq/plot-hexbin?collection=@observablehq/plot\",\r\n  thumbnail: \"1fe95f593aa40f969b2be9b86aa4c5c2cd7e6435ac895ffc09fd885ee4f7e8bf\",\r\n  title: \"Hexbin\"\r\n}\r\n], {target: null})}`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 77,
+            "name": null,
+            "value": "more = md`---\r\n## And more!\r\n\r\nGot the basics? Here are even more resources:\r\n\r\n* [API Reference](https://github.com/observablehq/plot/blob/main/README.md)\r\n* [Cheatsheets](/@observablehq/plot-cheatsheets)\r\n* [Shorthand](/@observablehq/plot-shorthand)\r\n* [Exploration: Penguins](/@observablehq/plot-exploration-penguins)\r\n* [Exploration: Weather](/@observablehq/plot-exploration-weather)\r\n* … and more coming soon!\r\n`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 100,
+            "name": null,
+            "value": "md`Observable Plot is released under the [ISC license](https://github.com/observablehq/plot/blob/main/LICENSE) and depends on [D3](https://d3js.org). It works great on Observable but does not depend on Observable; use it anywhere! To contribute to Plot’s development or to report an issue, please see [our repository](https://github.com/observablehq/plot). For recent changes, please see [our release notes](https://github.com/observablehq/plot/releases).`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 14,
+            "name": null,
+            "value": "md`---\r\n\r\n## Appendix`",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 385,
+            "name": null,
+            "value": "function previews(notebooks, options) {\r\n  return htl.html`<div style=\"display: grid; grid-gap: .875rem; grid-template-columns: repeat(auto-fill, minmax(160px, 5fr));\">${notebooks.map(notebook => preview(notebook, options))}</div>`;\r\n}",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 631,
+            "name": null,
+            "value": "function preview({path, title, author, thumbnail}, {target = \"_blank\"} = {}) {\r\n  return htl.html`<a href=${`/${path}`} target=${target} title=\"${title}${author ? `by ${author}`: \"\"}\" style=\"display: inline-flex; flex-direction: column; align-items: start; font: 400 .75rem var(--sans-serif); color: #1b1e23; width: 100%;\" onmouseover=${event => event.currentTarget.firstElementChild.style.borderColor = \"#1b1e23\"} onmouseout=${event => event.currentTarget.firstElementChild.style.borderColor = \"#e8e8e8\"}>\r\n  <div style=\"border: solid 1px #e8e8e8; border-radius: 4px; box-sizing: border-box; width: 100%; padding-top: 62.5%; background-size: cover; background-image: url(https://static.observableusercontent.com/thumbnail/${encodeURI(thumbnail)}.jpg);\"></div>\r\n  <div style=\"width: 100%; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;\">${title}</div>\r\n</a>`;\r\n}",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        }
+    ],
+    "resolutions": []
+}

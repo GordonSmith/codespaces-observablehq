@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "./notebooks"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"gordonsmith.observable-js",
+			"gordonsmith.js-notebook-extension-pack"
+		]
+	}
+}

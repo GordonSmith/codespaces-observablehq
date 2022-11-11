@@ -1,0 +1,4 @@
+vscode:
+  extensions:
+    - https://github.com/GordonSmith/vscode-ojs/releases/latest/download/gordonsmith.observable-js.vsix
+    - https://github.com/GordonSmith/vscode-ojs/releases/latest/download/gordonsmith.js-notebook-extension-pack.vsix
